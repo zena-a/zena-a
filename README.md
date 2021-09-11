@@ -1,3 +1,5 @@
+![GitHub Banner](GitHubBanner.jpg)
+
 # Hey World! I'm Zena 👋🏽
 Pronouns: She/Her/Hers 
 🎇Open to job opportunities!🎇
