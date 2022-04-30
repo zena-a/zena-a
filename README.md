@@ -12,7 +12,7 @@ Pronouns: She/Her/Hers
 - 👯--> I'm an active member of: Technolgap, Carleton Computer Science Society
 - 💻--> Working on: personal website, grocery inventory app, blog
 - 💭--> Reach out to me about: graphic design, web development, gaming, caribbean recipes 🍽
-- 🔍--> Quick outreach: zenaanthony2@gmail.com
+- 🔍--> Quick outreach: hello@zenaanthony.me
 - 😎--> Fun fact about me: I like to take aesthetically pleasing photos of the meals I cook 📸
 
 ## Let's connect!
