@@ -20,3 +20,4 @@ Pronouns: She/Her/Hers
 ## Let's connect!
 - 📄 [LinkedIn](https://www.linkedin.com/in/zenaanthony/) --> Check out more of XP here!
 - 🕹 Discord (Zee#7894) --> I am always down to play a game! 
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/zenaanthony)! I keep it simple with a plain vanilla iced coffee.
