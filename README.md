@@ -1,4 +1,4 @@
-![GitHub Banner](GitHub Banner.png)
+![GitHub Banner](GitHubBanner.png)
 
 # Hey World! I'm Zena 👋🏽
 Pronouns: She/Her/Hers 
