@@ -32,5 +32,5 @@ I'm from the Commonwealth of Dominica, with an Associate's Degree in Information
 - 🗒️--> Learning about: React, Web3 
 
 ## Let's connect!
-- 🕹 Discord (Zee#7894) --> I am always down to play a game! 
+- 🕹 Discord (zim-zena#7894) --> I am always down to play a game! 
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/zenaanthony)! I keep it simple with a plain vanilla iced coffee.
