@@ -30,6 +30,7 @@ I'm from the Commonwealth of Dominica, with an Associate's Degree in Information
 - 💻--> Working on: grocery list and inventory app
 - 💻--> Talk about web development and web design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
 - 🗒️--> Learning about: React, Web3 
+- 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
 - 🕹 Discord (zim-zena#7894) --> I am always down to play a game! 
