@@ -1,7 +1,9 @@
 ![GitHub Banner](GitHubBanner.png)
 
-# Hi there! I'm Zena 👋
-<p align="center">I enjoy coding (web, games) and designing (web, graphics, logo)</p>
+<div align="center">
+  <h1>Hi there! I'm Zena 👋</h1>
+  <p>I enjoy coding (web, games) and designing (web, graphics, logo)</p>
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@zenaanthony.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenaanthony/)
