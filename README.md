@@ -12,7 +12,7 @@
 
 ## Welcome to my Profile 😎
 
-I'm from the Commonwealth of Dominica, with an Associate's Degree in Information Technology and Computer Science. I enjoy web development, specifically the frontend stack. I also dabble in web design, graphic design and digital art. Coding has helped me express my self creatively and challenge myself in solving problems and being a continuous learner. I hope to become a digital nomad someday, and mentor others in their coding journey. 
+I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Information Technology and Computer Science</strong>. I enjoy web development, specifically the frontend stack. I also dabble in web design, graphic design and digital art. Coding has helped me express my self creatively and challenge myself in solving problems and being a continuous learner. I hope to become a digital nomad someday, and mentor others in their coding journey. 
 
 ## Languages and Tools 🧰
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ I'm from the Commonwealth of Dominica, with an Associate's Degree in Information
 
 ## What I've Been Up To 💪
 - 🏫--> I'm studying Computer Science at Carleton University, with a Minor in Business (3rd Year Student)
-- 💻--> Working on: grocery list and inventory app
+- 💻--> Working on: grocery list and inventory app, pos and inventory management system (both using Flutter)
 - 💻--> Talk about web development and web design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
 - 🗒️--> Learning about: React, Web3 
 - 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
