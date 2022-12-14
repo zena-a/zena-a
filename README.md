@@ -30,9 +30,9 @@ I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Inf
 
 ## What I've Been Up To 💪
 - 🏫--> I'm studying Computer Science at Carleton University, with a Minor in Business (3rd Year Student)
-- 💻--> Working on: grocery list and inventory app, pos and inventory management system (both using Flutter)
+- 💻--> Working on: grocery list and inventory app (research phase), a web portfolio to showcase my projects and blog (react)
 - 💻--> Talk about web development and web design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
-- 🗒️--> Learning about: React, Web3 
+- 🗒️--> Learning about: React, Web3, CISCO CCNA 
 - 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
