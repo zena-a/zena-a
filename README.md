@@ -5,7 +5,7 @@
   <p>I enjoy coding for the web and designing (web, logo and digital art)</p>
 </div>
 
-<div alighn="center">
+<div align="center">
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenaanthony2@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenaanthony/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zimzena)
