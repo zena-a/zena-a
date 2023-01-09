@@ -2,17 +2,16 @@
 
 <div align="center">
   <h1>Hi there! I'm Zena 👋</h1>
-  <p>I enjoy coding (web, games) and designing (web, graphics, logo)</p>
+  <p>I enjoy coding for the web and designing (web, logo and digital art)</p>
 </div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@zenaanthony.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenaanthony2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenaanthony/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zimzena)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/zenaanthony)
 
 ## Welcome to my Profile 😎
 
-I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Information Technology and Computer Science</strong>. I enjoy web development, specifically the frontend stack. I also dabble in web design, graphic design and digital art. Coding has helped me express my self creatively and challenge myself in solving problems and being a continuous learner. I hope to become a digital nomad someday, and mentor others in their coding journey. 
+I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Information Technology and Computer Science</strong>. I enjoy web development, specifically the frontend stack. I also dabble in web design, graphic design and digital art. Coding has helped me express my self creatively and challenge myself in solving problems and being a continuous learner. I hope to create more content sharing my coding journey, and mentor others. 
 
 ## Languages and Tools 🧰
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,9 +29,9 @@ I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Inf
 
 ## What I've Been Up To 💪
 - 🏫--> I'm studying Computer Science at Carleton University, with a Minor in Business (3rd Year Student)
-- 💻--> Working on: grocery list and inventory app (research phase), a web portfolio to showcase my projects and blog (react)
-- 💻--> Talk about web development and web design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
-- 🗒️--> Learning about: React, Web3, CISCO CCNA 
+- 💻--> Working on: apartment rental website; grocery and inventory app 
+- 💻--> Talk about web development and design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
+- 🗒️--> Learning about: React, and preparing for CISCO CCNA exams
 - 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
