@@ -30,8 +30,7 @@ I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Inf
 ## What I've Been Up To 💪
 - 🏫--> I'm studying Computer Science at Carleton University, with a Minor in Business (3rd Year Student)
 - 💻--> Working on: apartment rental website; grocery and inventory app 
-- 💻--> Talk about web development and design on my blog: [Devign with Zee](https://devignwithzee.com/home/)
-- 🗒️--> Learning about: React, and preparing for CISCO CCNA exams
+- 🗒️--> Learning about: React, and preparing for CISCO CCST Networking Certification
 - 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
