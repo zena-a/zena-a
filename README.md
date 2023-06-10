@@ -1,4 +1,4 @@
-![GitHub Banner](github-banner.png)
+![GitHub Banner]()
 
 <div align="center">
   <h1>Hi there! I'm Zena 👋</h1>
