@@ -1,8 +1,8 @@
 ![GitHub Banner](github-banner-2023.png)
 
 <div align="center">
-  <h1>Hi there! I'm Zena 👋</h1>
-  <p>I enjoy coding for the web and designing (web, logo and digital art)</p>
+  <h1>Hi, I'm Zena 👋</h1>
+  <p>I can print "Hello World" in 8 different programming languages 😎.</p>
 </div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenaanthony2@gmail.com)
@@ -11,7 +11,7 @@
 
 ## Welcome to my Profile 😎
 
-I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Information Technology and Computer Science</strong>. I enjoy web development, specifically the frontend stack. I also dabble in web design, graphic design and digital art. Coding has helped me express my self creatively and challenge myself in solving problems and being a continuous learner. I hope to create more content sharing my coding journey, and mentor others. 
+I'm a tech enthusiast passionate about learning software development, design and other tech streams. After graduating college with an <strong>Associate's Degree in Computer Science and Information Technology</strong>, I decided to pursue further studies in Computer Science. Eventually, I found a passion for software development as I enjoyed the practical aspect of learning and being creative. I enjoy challenging myself, solving problems and learning new ways to automate tasks. Additionally, I share my learning journey on my tech blog, where I hope to encourage and learn from others.
 
 ## Languages and Tools 🧰
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,11 +28,11 @@ I'm from the Commonwealth of Dominica, with an <strong>Associate's Degree in Inf
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## What I've Been Up To 💪
-- 🏫--> I'm studying Computer Science at Carleton University, with a Minor in Business (3rd Year Student)
-- 💻--> Working on: apartment rental website; grocery and inventory app 
-- 🗒️--> Learning about: React, and preparing for CISCO CCST Networking Certification
-- 👀 --> You can find some more of my projects here: [Zena's CodePen](https://codepen.io/zena-a)
+- 🏫--> Studying: B. Sc Computer Science with a Minor in Business (3rd Year Student)
+- 🖊️--> Blogging: Sharing my learning in software development and design on [Devign with Zee](https://devignwithzee.wordpress.com/)
+- 💻--> Building: updated web portfolio, meal planner app 
+- 🗒️--> Learning: Python, CISCO CCST Networking Certification
+- 👀 --> More Projects: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
-- 🕹 Discord (zim-zena#7894) --> I am always down to play a game! 
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/zenaanthony)! I keep it simple with a plain vanilla iced coffee.
+- 🕹 Discord (zim-zena#7894)
