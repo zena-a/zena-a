@@ -11,7 +11,7 @@
 
 ## Welcome to my Profile 😎
 
-I'm a tech enthusiast passionate about learning software development, design and other tech streams. After graduating college with an <strong>Associate's Degree in Computer Science and Information Technology</strong>, I decided to pursue further studies in Computer Science. Eventually, I found a passion for software development as I enjoyed the practical aspect of learning and being creative. I enjoy challenging myself, solving problems and learning new ways to automate tasks. Additionally, I share my learning journey on my tech blog, where I hope to encourage and learn from others.
+I'm a tech enthusiast passionate about learning software development, design, and other tech streams. After graduating college with an <strong>Associate's Degree in Computer Science and Information Technology</strong>, I decided to pursue further studies in tech, focusing on Computer Programming and Software Development. I enjoy challenging myself, solving problems in creative ways, and learning new ways to automate tasks. Additionally, I share my learning journey on my tech blog, where I hope to encourage and learn from others.
 
 ## Languages and Tools 🧰
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,11 +28,10 @@ I'm a tech enthusiast passionate about learning software development, design and
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## What I've Been Up To 💪
-- 🏫--> Studying: B. Sc Computer Science with a Minor in Business (3rd Year Student)
+- 🏫--> Studying: Computer Programming and IT Support
 - 🖊️--> Blogging: Sharing my learning in software development and design on [Devign with Zee](https://devignwithzee.wordpress.com/)
-- 💻--> Building: updated web portfolio, meal planner app 
-- 🗒️--> Learning: Python, CISCO CCST Networking Certification
+- 💻--> Building: meal planner app 
 - 👀 --> More Projects: [Zena's CodePen](https://codepen.io/zena-a)
 
 ## Let's connect!
-- 🕹 Discord (zim-zena#7894)
+- 🕹 Discord (zimzena)
