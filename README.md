@@ -5,8 +5,10 @@
   <p>I can print "Hello World" in 8 different programming languages 😎.</p>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenaanthony/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/zimzena)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenaanthony/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/zimzena)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@devignwithzee?is_from_webapp=1&sender_device=pc)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DevignWithZee)
 
 ## Welcome To My Profile 😎
 
@@ -37,5 +39,4 @@ I'm a tech enthusiast passionate about learning software development, design, an
 - 💻--> Building: character card web app 
 - 👀 --> More Projects: [Zena's CodePen](https://codepen.io/zena-a)
 
-## Let's connect!
-- 🕹 Discord (zimzena)
+
