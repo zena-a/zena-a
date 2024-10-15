@@ -1,4 +1,4 @@
-![GitHub Banner](github-banner-2023.png)
+![GitHub Banner](github-banner-2024.png)
 
 <div align="center">
   <h1>Hi, I'm Zena 👋</h1>
